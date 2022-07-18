@@ -1,1 +1,1 @@
-# GAN_Fashion_Mnist-in-Pytorch
+# GAN Fashion Mnist in Pytorch
